@@ -1,0 +1,124 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title></title>
+	<style type="text/css">
+		*{
+
+margin: 0px;
+padding: 0px;
+box-sizing: border-box;
+		}
+		
+img{
+	float: right;
+	
+	position: ;
+width: 111px;
+height: 111px;
+margin-top: 5px;
+margin-left: 10px;
+
+margin: 10px;
+padding: 20px;
+}
+
+
+
+
+
+ ul{
+width: 100%;
+list-style: none;
+background: greenyellow;
+display: flex;
+position:absolute ;
+border-radius: 100%;
+text-align: center;
+text-shadow: hotpink;
+color: black;
+}
+li a{
+
+display: block;
+text-decoration: none;
+text-align: center;
+margin: 20px;
+padding: 10px;
+text-align: center;
+float: right;
+}
+
+
+body{
+
+height: 100%;
+
+
+
+}
+.ff{
+
+text-align: center;
+background: powderblue;
+border-radius: 100%;
+
+}
+
+
+
+.jack{
+
+
+width: 111px;
+height: 111px;
+}
+
+
+.kl{
+
+
+
+position: center;
+text-align: center;
+
+}
+
+
+
+
+
+
+
+
+
+	</style>
+</head>
+<body>
+	
+
+<div class="ff"><code>devloper sachin</code></div>
+
+<nav class="menu">
+<ul>
+
+<li><a href="#">HOME</a></li>
+<li><a href="#">MENU</a></li>
+<li><a href="#">VIDEO</a></li>
+<li><a href="#">CONTENT</a></li>
+<li><a href="#">FEATURES</a></li>
+
+</ul>	
+
+</nav>	
+<div class="k">
+<video autoplay loop muted>
+	
+	<source src="C:\Users\Admin\Desktop\hard\design-26">
+</video>
+<img src="C:\Users\Admin\Desktop\hard\pngtree-color-saraswati-goddess-png-image_2760423-removebg-preview (1).png" height="200pxS">
+</div>
+</body>
+</html>
